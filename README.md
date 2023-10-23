@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# Hi I'm Aigul👋
 
-<h3>Hi there! I’m Aigul, welcome to my GitHub</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-aigul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aigul-yer)](www.linkedin.com/in/aigul-yer)
 
 ### :fire: My Stats :
 <div align="center">
