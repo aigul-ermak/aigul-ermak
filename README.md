@@ -1,7 +1,7 @@
 # Hi I'm Aigul👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-aigul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aigul-yer/)](https://www.linkedin.com/in/aigul-yer/)
-
+[![Gmail Badge](https://img.shields.io/badge/-aigul-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aigul-ermak@gmail.com)](mailto:aigul-ermak@gmail.com)
 
 
 Welcome to my profile! I'm a developer, mom, wife  part-time coder and full-time adventure seeker. I am current learning in Information Technology: Web and Mobile Apllication development at NBCC. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/aigul-yer/)!
