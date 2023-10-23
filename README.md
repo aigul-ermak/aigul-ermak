@@ -1,10 +1,10 @@
 # Hi I'm Aigul👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-aigul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aigul-yer/)](www.linkedin.com/in/aigul-yer/)
+[![Linkedin Badge](https://img.shields.io/badge/-aigul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aigul-yer/)](https://www.linkedin.com/in/aigul-yer/)
 
 
 
-Welcome to my profile! I'm a developer, mom, wife  part-time coder and full-time adventure seeker. I am current learning in Information Technology: Web and Mobile Apllication development at NBCC. Thanks for visiting and I'd love to [connect](www.linkedin.com/in/aigul-yer/)!
+Welcome to my profile! I'm a developer, mom, wife  part-time coder and full-time adventure seeker. I am current learning in Information Technology: Web and Mobile Apllication development at NBCC. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/aigul-yer/)!
 
 ### :fire: My Stats :
 <div align="center">
