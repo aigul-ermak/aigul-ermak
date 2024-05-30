@@ -6,9 +6,6 @@
 ### <div align="center">👋 Hi there! I'm Aigul, welcome to my GitHub </div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
 - 🙂 I'm interested in C#, Java, JavaScript, SQL, Dart (Flutter), and Kotlin  
   
 
