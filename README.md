@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on either back-end or front-end projects<br>🤝 I’m looking for help with preparing for job interviews<br>🌱 I’m currently learning Linux<br>
+# 💫 Hi, I am Aigul
 
 
 ## 🌐 Socials:
