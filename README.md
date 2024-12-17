@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Aigul
-**Full-Stack Developer | Backend Enthusiast **
+**Full-Stack Developer | Backend Enthusiast**
 
 Welcome to my GitHub! 
 
