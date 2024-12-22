@@ -19,12 +19,12 @@ Welcome to my GitHub!
 
 ---
 
-## 📂 My projects:
+### 📂 My projects:
 [www.aigul.ca](https://aigul.ca/projects/)
 
 ---
 
-🌐 Find My Blog Online Online
+### 🌐 Find My Blog Online Online
 [www.aigul.ca](https://aigul.ca/blog/)
 
 ---
