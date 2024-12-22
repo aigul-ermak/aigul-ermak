@@ -7,33 +7,24 @@ Welcome to my GitHub!
 
 ## 🔧 Skills
 ### Technical Skills
-- **Languages**: JavaScript, TypeScript, Node.js, Express, Nest.js, C#, Java
-- **Infrastructure**: 
-- **Tools**: Git, Jira
-- **Other**: 
+- **Languages**: C#, Java, JavaScript, TypeScript, Node.js
+- **Databases**: SSMS, SQL, MySQL, PostgreSQL, MongoDB, Mongoose
+- **Frameworks**: ASP.NET, SpringBoot, React, Express, Nest.js
+- **Tools**: Git, Jira, Docker
+- **Other**: REST APIs, CI/CD pipelines
 
 ### Professional Skills
-- **Project Management**: Agile development, project planning, progress management
-- **Client Communication**: Needs assessment, technical research
+- **Project Management**: Agile development, project planning, progress tracking
+- **Client Communication**: Needs assessment, technical research, requirement analysis
 
 ---
 
-## 📚 Experience
-
+## 📂 My projects:
+[www.aigul.ca](https://aigul.ca/projects/)
 ---
 
-## 📂 Portfolio
-
----
-
-🌐 Find Me Online
-
+🌐 Find My Blog Online Online
+https://aigul.ca/blog/
 ---
 
 Thank you!
-
-
-
-
-
-
