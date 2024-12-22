@@ -21,10 +21,12 @@ Welcome to my GitHub!
 
 ## 📂 My projects:
 [www.aigul.ca](https://aigul.ca/projects/)
+
 ---
 
 🌐 Find My Blog Online Online
-https://aigul.ca/blog/
+[www.aigul.ca]([https://aigul.ca/projects/](https://aigul.ca/blog/)
+
 ---
 
 Thank you!
