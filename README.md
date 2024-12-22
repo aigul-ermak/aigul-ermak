@@ -25,7 +25,7 @@ Welcome to my GitHub!
 ---
 
 🌐 Find My Blog Online Online
-[www.aigul.ca]([https://aigul.ca/projects/](https://aigul.ca/blog/)
+[www.aigul.ca](https://aigul.ca/blog/)
 
 ---
 
