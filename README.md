@@ -7,9 +7,9 @@ Welcome to my GitHub!
 
 ## 🔧 Skills
 ### Technical Skills
-- **Languages**: C#, Java, JavaScript, TypeScript, Node.js
+- **Languages**: C#, Java, JavaScript, TypeScript
 - **Databases**: SSMS, SQL, MySQL, PostgreSQL, MongoDB, Mongoose
-- **Frameworks**: ASP.NET, SpringBoot, React, Express, Nest.js
+- **Frameworks**: ASP.NET, SpringBoot, React, Node.js, Express, Nest.js
 - **Tools**: Git, Jira, Docker
 - **Other**: REST APIs, CI/CD pipelines
 
