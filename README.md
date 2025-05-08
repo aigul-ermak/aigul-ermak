@@ -16,17 +16,3 @@ Welcome to my GitHub!
 ### Professional Skills
 - **Project Management**: Agile development, project planning, progress tracking
 - **Client Communication**: Needs assessment, technical research, requirement analysis
-
----
-
-### 📂 My projects:
-[www.aigul.ca](https://aigul.ca/projects/)
-
----
-
-### 🌐 Find My Blog Online Online
-[www.aigul.ca](https://aigul.ca/blog/)
-
----
-
-Thank you!
